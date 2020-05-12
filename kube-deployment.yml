@@ -4,7 +4,7 @@ metadata:
   name: wordsmith
   labels:
     name: wordsmith
-----
+---
 apiVersion: v1
 kind: Service
 metadata:
